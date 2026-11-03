@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-numbers",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Number utilities MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "numbers",
     "gatewaySlug": "numbers",
-    "sourceHash": "v1-548f269800a2a1b14f71c4699486999968321e9fe0f3848d31db890e328d1cef",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-826a4c176d7febc41d39ed27e78ad68fe695b30cf7070437f06ab320304b5888",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
